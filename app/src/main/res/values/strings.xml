@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">SearchApp</string>
+    <string-array name="names">
+        <item>Anamika</item>
+        <item>Anandi</item>
+        <item>Dushyant</item>
+        <item>Aman</item>
+        <item>Astitva</item>
+        <item>Aadil</item>
+        <item>abhishek</item>
+        <item>Aakaash</item>
+        <item>Aakil</item>
+        <item>Mahir</item>
+        <item>Nadin</item>
+        <item>Onir</item>
+        <item>Viaan</item>
+        <item>Ivan</item>
+        <item>Aryan</item>
+        <item>Ishaan</item>
+        <item>Ridhaan</item>
+        <item>Daksh</item>
+        <item>Simar</item>
+        <item>Adwait</item>
+        <item>Zian</item>
+        <item>Dhvan</item>
+        <item>Nehal</item>
+        <item>Aahir</item>
+        <item>Vihan</item>
+        <item>Laksh</item>
+        <item>Rahi</item>
+        <item>Neel</item>
+        <item>Abeer</item>
+        <item>Advaya</item>
+        <item>Aabheer</item>
+        <item>Aadhya</item>
+        <item>Disha</item>
+        <item>Jahnavi</item>
+        <item>Mihik</item>
+        <item>Oviya</item>
+        <item>Ruhi</item>
+        <item>Salena</item>
+        <item>Zaina</item>
+        <item>Kiara</item>
+        <item>Aalia</item>
+        <item>Pari</item>
+        <item>Sahana</item>
+        <item>Aria</item>
+        <item>Nisha</item>
+        <item>Suhana</item>
+        <item>Amaya</item>
+        <item>Ahana</item>
+        <item>Myra</item>
+        <item>Miksha</item>
+        <item>Eshita</item>
+        <item>Tiya</item>
+        <item>Mahika</item>
+        <item>Aaditri</item>
+        <item>Eeshani </item>
+        <item>Aarohi</item>
+        <item>Eesha</item>
+        <item>Archana</item>
+        <item>Bhavya</item>
+        <item>Dityaa</item>
+        <item>Leela</item>
+        <item>Kshipra</item>
+        <item>Nandini</item>
+        <item>Pavana</item>
+        <item>Pooja</item>
+        <item>Prisha</item>
+        <item>Richa</item>
+        <item>Rishika</item>
+        <item>Ruhani</item>
+        <item>Saanvika</item>
+        <item>Sadhana</item>
+        <item>Shruti</item>
+        <item>Upasna</item>
+        <item>Vaishanavi</item>
+        <item>Vedanti</item>
+        <item>Aaradhya</item>
+        <item>Aashirya</item>
+        <item>Qasim</item>
+        <item>chandan</item>
+        <item>chandni</item>
+        <item>firoz</item>
+        <item>wasim</item>
+        <item>wajid</item>
+        <item>gita</item>
+        <item>wasim</item>
+        <item>hema</item>
+        <item>jaya</item>
+        <item>Xavier</item>
+        <item>Dushyant</item>
+
+
+
+    </string-array>
+</resources>
